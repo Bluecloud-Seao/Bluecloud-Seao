@@ -9,6 +9,6 @@ import tkinter as tk
 import tkinter.ttk as ttk
 root = tk.Tk()
 
-#Tkink a lot and program!
+#Think a lot and program!
 
 root.mainloop()
